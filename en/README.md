@@ -5,7 +5,7 @@ Licensed Under Creative Commons Attribution 3.0 Unported
 A bunch of crap (or should I say diarrhea). I just added a Chinese keyboard to my phone, and typed stuff. Didn't know what it said. On the plus side, I learned one word in Chinese: "corpse"
 
 ## Localization
-You're viewing this lore in **US English**. View the lore in [Chinese](/cn)
+You're viewing this lore in **US English**. View the lore in [Chinese](/cn/README.md)
 
 ## Why?
 Why not?
